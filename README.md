@@ -22,7 +22,7 @@ python Trainer.py
 ## Model inference.
 To evaluate model use following command:
 ```
-python Parser.py  [--sentence="<SENTENCE>"]
+python Parse.py  [--sentence="<SENTENCE>"]
 ```
 
 Arguments:
